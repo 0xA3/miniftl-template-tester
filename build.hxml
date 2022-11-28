@@ -1,0 +1,10 @@
+-lib xa3.format
+-cp src
+-D analyzer-optimize
+-D js-es=6
+-D js-classic
+# -D dump=pretty
+-debug
+-dce full
+-main Main
+--js docs/app.js

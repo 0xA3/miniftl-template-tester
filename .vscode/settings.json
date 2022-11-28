@@ -1,0 +1,14 @@
+{
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "/bin/css"
+		}
+	],
+	"editor.codeActionsOnSave": {
+		"source.sortImports": true
+	},
+	"liveServer.settings.root": "/bin/",
+	"liveServer.settings.AdvanceCustomBrowserCmdLine": "C:/Program Files (x86)/BraveSoftware/Brave-Browser/Application/brave.exe"
+}
