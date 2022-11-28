@@ -3,12 +3,12 @@
 		{
 			"format": "expanded",
 			"extensionName": ".css",
-			"savePath": "/bin/css"
+			"savePath": "/docs/css"
 		}
 	],
 	"editor.codeActionsOnSave": {
 		"source.sortImports": true
 	},
-	"liveServer.settings.root": "/bin/",
+	"liveServer.settings.root": "/docs/",
 	"liveServer.settings.AdvanceCustomBrowserCmdLine": "C:/Program Files (x86)/BraveSoftware/Brave-Browser/Application/brave.exe"
 }

@@ -7,5 +7,5 @@
 # -D dump=pretty
 # -debug
 -dce full
--main templateTester.Main
---js docs/app.js
+miniftl.MiniFtl
+--js docs/miniftl.js
